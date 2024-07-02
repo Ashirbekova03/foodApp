@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="text_would_like_to_eat">What would you like to eat</string>
+    <string name="text_over_popular_items">Over popular items</string>
+    <string name="text_categories">Categories</string>
+    <string name="text_category_beef">Category : Beef</string>
+    <string name="text_area_palestine">Area : Palestine</string>
+    <string name="text_instructions">- Instructions : </string>
+    <string name="text_category_name">- Category name : </string>
+    <string name="text_beef">Beef</string>
+    <string name="text_palestine">Palestine</string>
+    <string name="text_meal_name">Meal Name</string>
+    <string name="text_read_more">Read more...</string>
+    <string name="text_search_meals">Search Meals...</string>
+</resources>
